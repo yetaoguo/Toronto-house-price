@@ -1,3 +1,10 @@
+#### Preamble ####
+# Purpose: Simulate Data
+# Author: Yetao Guo
+# Date: 18 April 2024
+
+    
+
 #simulation
 
 set.seed(1234)
