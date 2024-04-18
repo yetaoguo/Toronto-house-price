@@ -1,7 +1,7 @@
 # Toronto-house-price
 
 # Overview
-This repository contains data and code used to produce a paper that analyzes linear Regression Models for Toronto Home Prices in 2011.
+This repository contains data and code used to produce a paper that analyzes linear Regression Models for Toronto House Prices in 2011.
 
 # File Structure
 The repo is structured as follows:
