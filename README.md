@@ -14,7 +14,6 @@ The data is downloaded from https://open.toronto.ca/dataset/wellbeing-toronto-ho
 - scripts contains the R scripts used to simulate data. 
 
 # LLM usage
-Chatgpt was used in the paper, helping with error codes. Some code were written with the help of ChatGPT.
+Chatgpt was used in the paper. It is utilized for grammar corrections. Additionally, parts of the code in Quarto were developed with assistance from ChatGPT-4."
 
 
-  
